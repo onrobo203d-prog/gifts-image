@@ -1,43 +1,44 @@
-{
-  "id": "001",
-  "name": "チャージ",
-  "points": 10,
-  "categories": ["挨拶", "定番"]
-}
-
-{
-  "id": "002",
-  "name": "あちっ",
-  "points": 10,
-  "categories": ["LOVE", "定番"]
-}
-{
-  "id": "003",
-  "name": "つむ",
-  "points": 100,
-  "categories": ["ネタ"]
-}
-{
-  "id": "004",
-  "name": "おばけしらす",
-  "points": 1,
-  "categories": ["挨拶", "定番"]
-}
-{
-  "id": "005",
-  "name": "オール",
-  "points": 99,
-  "categories": ["挨拶", "定番"]
-}
-{
-  "id": "006",
-  "name": "爆弾",
-  "points": 300,
-  "categories": ["挨拶", "定番"]
-}
-{
-  "id": "007",
-  "name": "カチコチ",
-  "points": 300,
-  "categories": ["挨拶", "定番"]
-}
+[
+  {
+    "id": "001",
+    "name": "チャージ",
+    "points": 10,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "002",
+    "name": "あちっ",
+    "points": 10,
+    "categories": ["LOVE", "定番"]
+  },
+  {
+    "id": "003",
+    "name": "つむ",
+    "points": 100,
+    "categories": ["ネタ"]
+  },
+  {
+    "id": "004",
+    "name": "おばけしらす",
+    "points": 1,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "005",
+    "name": "オール",
+    "points": 99,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "006",
+    "name": "爆弾",
+    "points": 300,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "007",
+    "name": "カチコチ",
+    "points": 300,
+    "categories": ["挨拶", "定番"]
+  }
+]
