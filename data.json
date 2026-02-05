@@ -118,5 +118,127 @@
     "name": "気配察知",
     "points": 500,
     "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "021",
+    "name": "REC",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+
+[
+  {
+    "id": "022",
+    "name": "お宝発見",
+    "points": 100,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "023",
+    "name": "あちらのお客様からです",
+    "points": 3000,
+    "categories": ["LOVE", "定番"]
+  },
+  {
+    "id": "024",
+    "name": "ダジャレ警察",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+  {
+    "id": "025",
+    "name": "拳",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+  {
+    "id": "026",
+    "name": "そんなバナナ",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "027",
+    "name": "メシウマ",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "028",
+    "name": "アニキー",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "029",
+    "name": "仰せのままに",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "030",
+    "name": "漢",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "031",
+    "name": "鉄アレイ",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+    {
+    "id": "032",
+    "name": "ヒャッホー",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "033",
+    "name": "おもしれーやつ",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "034",
+    "name": "沼",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "035",
+    "name": "鳥肌注意",
+    "points": 500,
+    "categories": ["ステージ", "ネタ"]
+  },
+    {
+    "id": "036",
+    "name": "あとは頼んだ",
+    "points":5,
+    "categories": ["ネタ", "定番"]
+  },
+    {
+    "id": "037",
+    "name": "ドヤッ",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "038",
+    "name": "ふひひ…",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "039",
+    "name": "ご乱心",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "040",
+    "name": "コッ",
+    "points": 5,
+    "categories": ["挨拶", "定番"]
   }
 ]
