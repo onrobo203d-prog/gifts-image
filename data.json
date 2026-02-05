@@ -7,20 +7,20 @@
   },
   {
     "id": "002",
-    "name": "あちっ",
+    "name": "アヂッ",
     "points": 10,
     "categories": ["LOVE", "定番"]
   },
   {
     "id": "003",
-    "name": "つむ",
-    "points": 100,
+    "name": "…つむっ！",
+    "points": 10,
     "categories": ["ネタ"]
   },
   {
     "id": "004",
     "name": "おばけしらす",
-    "points": 1,
+    "points": 44,
     "categories": ["挨拶", "定番"]
   },
   {
@@ -40,5 +40,83 @@
     "name": "カチコチ",
     "points": 300,
     "categories": ["挨拶", "定番"]
-  }
+  },
+    {
+    "id": "008",
+    "name": "蝋燭",
+    "points": 300,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "009",
+    "name": "どーなつちゃうの",
+    "points": 300,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "010",
+    "name": "嫁に来ないか",
+    "points": 500,
+    "categories": ["LOVE", "ネタ"]
+  },
+    {
+    "id": "011",
+    "name": "そういうとこだぞ",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "012",
+    "name": "パシャパシャ",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "013",
+    "name": "集中線",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "014",
+    "name": "警察だ！",
+    "points": 500,
+    "categories": ["ネタ"]
+  },
+    {
+    "id": "015",
+    "name": "パイ投げ",
+    "points":500,
+    "categories": ["ネタ", "定番"]
+  },
+    {
+    "id": "016",
+    "name": "タライ落とし",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "017",
+    "name": "レインボーしらす",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "018",
+    "name": "ギガブルーム",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "019",
+    "name": "まだ大丈夫。",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
+    {
+    "id": "020",
+    "name": "気配察知",
+    "points": 500,
+    "categories": ["挨拶", "定番"]
+  },
 ]
