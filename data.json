@@ -238,5 +238,107 @@
     "name": "コッ",
     "points": 5,
     "categories": ["挨拶", "定番"]
+  },
+  {
+    "id": "076", 
+    "name": "ｽﾞｷｭｰﾝ!", 
+    "points": 500,
+    "categories": ["LOVE"] 
+  },
+ {
+    "id": "077", 
+    "name": "唐突な愛",
+    "points": 500,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "078", 
+    "name": "ｳｨﾝｸﾀｲﾑ",
+    "points": 500,
+    "categories": ["LOVE"]
+  },
+{
+    "id": "079", 
+    "name": "すこ",
+    "points": 1000,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "080", 
+    "name": "だいすき",
+    "points": 10000,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "081", 
+    "name": "あふれる想い",
+    "points": 30000,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "082", 
+    "name": "もういっかい",
+    "points": 5,
+    "categories": ["ネタ", "ステージ"]
+  },
+{
+    "id": "083",
+    "name": "ｻｲﾘｳﾑ・ｵﾚﾝｼﾞ",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "084", 
+    "name": "ｻｲﾘｳﾑ・ﾋﾟﾝｸ",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "085",
+    "name": "ｻｲﾘｳﾑ・白",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "086",
+    "name": "ｻｲﾘｳﾑ・紫",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "087",
+    "name": "ｻｲﾘｳﾑ・緑",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "088",
+    "name": "ｻｲﾘｳﾑ・赤",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "089",
+    "name": "ｻｲﾘｳﾑ・水色",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "090",
+    "name": "ｻｲﾘｳﾑ・黄",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "091",
+    "name": "ｻｲﾘｳﾑ・黄緑",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "092",
+    "name": "ｻｲﾘｳﾑ・黒",
+    "points": 5,
+    "categories": ["ステージ"]
   }
 ]
