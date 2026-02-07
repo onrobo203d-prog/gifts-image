@@ -3,13 +3,13 @@
     "id": "001",
     "name": "チャージ",
     "points": 10,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "002",
     "name": "アヂッ",
     "points": 10,
-    "categories": ["LOVE", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "003",
@@ -21,37 +21,37 @@
     "id": "004",
     "name": "おばけしらす",
     "points": 44,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "005",
     "name": "オール",
     "points": 99,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "006",
     "name": "爆弾",
     "points": 300,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "007",
     "name": "カチコチ",
     "points": 300,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "008",
     "name": "蝋燭",
     "points": 300,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "009",
     "name": "どーなつちゃうの",
     "points": 300,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "010",
@@ -63,19 +63,19 @@
     "id": "011",
     "name": "そういうとこだぞ",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "012",
     "name": "パシャパシャ",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "013",
     "name": "集中線",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "014",
@@ -87,55 +87,55 @@
     "id": "015",
     "name": "パイ投げ",
     "points":500,
-    "categories": ["ネタ", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "016",
     "name": "タライ落とし",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "017",
     "name": "レインボーしらす",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "018",
     "name": "ギガブルーム",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "019",
     "name": "まだ大丈夫。",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "020",
     "name": "気配察知",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "021",
     "name": "REC",
     "points": 500,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "022",
     "name": "お宝発見",
-    "points": 100,
-    "categories": ["挨拶", "定番"]
+    "points": 1000,
+    "categories": ["ネタ"]
   },
   {
     "id": "023",
     "name": "あちらのお客様からです",
     "points": 3000,
-    "categories": ["LOVE", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "024",
@@ -153,31 +153,31 @@
     "id": "026",
     "name": "そんなバナナ",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "027",
     "name": "メシウマ",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
   {
     "id": "028",
     "name": "アニキー",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ", "えらい"]
   },
     {
     "id": "029",
     "name": "仰せのままに",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "030",
     "name": "漢",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ", "えらい"]
   },
     {
     "id": "031",
@@ -189,19 +189,19 @@
     "id": "032",
     "name": "ヒャッホー",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "033",
     "name": "おもしれーやつ",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ", "えらい"]
   },
     {
     "id": "034",
     "name": "沼",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "035",
@@ -213,31 +213,241 @@
     "id": "036",
     "name": "あとは頼んだ",
     "points":5,
-    "categories": ["ネタ", "定番"]
+    "categories": ["ネタ", "挨拶"]
   },
     {
     "id": "037",
     "name": "ドヤッ",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "038",
     "name": "ふひひ…",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "039",
     "name": "ご乱心",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
   },
     {
     "id": "040",
     "name": "コッ",
     "points": 5,
-    "categories": ["挨拶", "定番"]
+    "categories": ["ネタ"]
+  },
+  {
+    "id": "041", 
+    "name": "もういっかい", 
+    "points": 5,
+    "categories": ["ネタ,ステージ"] 
+  },
+ {
+    "id": "042", 
+    "name": "ざわざわ",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "043", 
+    "name": "非常口",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "044", 
+    "name": "かー",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "045", 
+    "name": "つー",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "046", 
+    "name": "乗りなッ!",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "047", 
+    "name": "降りろ…",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "048",
+    "name": "しーっ",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "049", 
+    "name": "はて…？",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "050",
+    "name": "やれやれ",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "051",
+    "name": "ぱぁ。",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "052",
+    "name": "完全燃焼",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "053",
+    "name": "激熱",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "054",
+    "name": "まぶしい",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "055",
+    "name": "世界一",
+    "points": 5,
+    "categories": ["ネタ", "えらい"]
+  },
+ {
+    "id": "056",
+    "name": "祭うちわ",
+    "points": 5,
+    "categories": ["ステージ", "ネタ"]
+  },
+ {
+    "id": "057",
+    "name": "ええやん",
+    "points": 5,
+    "categories": ["ネタ", "えらい"]
+  },
+ {
+    "id": "058",
+    "name": "最強",
+    "points": 5,
+    "categories": ["ネタ", "えらい"]
+  },
+ {
+    "id": "059",
+    "name": "スリスリ",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "060",
+    "name": "中二病",
+    "points": 5,
+    "categories": ["ネタ", "ステージ"]
+  },
+ {
+    "id": "061",
+    "name": "かぷかぷ",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "062",
+    "name": "こらえ笑い",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "063",
+    "name": "ブフォッ",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "064",
+    "name": "微笑",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "065",
+    "name": "真顔",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "066",
+    "name": "おもしろー",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "067",
+    "name": "ガハハ",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "068",
+    "name": "ズコー",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "069",
+    "name": "座布団",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "070",
+    "name": "ビタミン不足",
+    "points": 5,
+    "categories": ["笑"]
+  },
+ {
+    "id": "071",
+    "name": "ハート",
+    "points": 5,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "072",
+    "name": "照れ",
+    "points": 5,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "073",
+    "name": "呼んだ？",
+    "points": 5,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "074",
+    "name": "ハート(大)",
+    "points": 200,
+    "categories": ["LOVE"]
+  },
+ {
+    "id": "075",
+    "name": "すこっていい？",
+    "points": 500,
+    "categories": ["LOVE"]
   },
   {
     "id": "076", 
