@@ -550,5 +550,53 @@
     "name": "ｻｲﾘｳﾑ・黒",
     "points": 5,
     "categories": ["ステージ"]
+  },
+  {
+    "id": "093", 
+    "name": "ｻｲﾘｳﾑ・葱", 
+    "points": 5,
+    "categories": ["ステージ"] 
+  },
+ {
+    "id": "094", 
+    "name": "アフロしらす",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "095", 
+    "name": "アンコール",
+    "points": 5,
+    "categories": ["ステージ"]
+  },
+{
+    "id": "096", 
+    "name": "キャーッ！",
+    "points": 5,
+    "categories": ["LOVE", "ステージ"]
+  },
+ {
+    "id": "097", 
+    "name": "音譜",
+    "points": 100,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "098", 
+    "name": "拍手",
+    "points": 200,
+    "categories": ["えらい", "ステージ"]
+  },
+ {
+    "id": "099", 
+    "name": "よーい",
+    "points": 200,
+    "categories": ["ステージ"]
+  },
+{
+    "id": "100",
+    "name": "サーチライト",
+    "points": 200,
+    "categories": ["ステージ"]
   }
 ]
