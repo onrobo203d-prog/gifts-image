@@ -598,5 +598,299 @@
     "name": "サーチライト",
     "points": 200,
     "categories": ["ステージ"]
+  },
+  {
+    "id": "101", 
+    "name": "スポットライト", 
+    "points": 500,
+    "categories": ["ステージ"] 
+  },
+ {
+    "id": "102", 
+    "name": "V.I.P",
+    "points": 500,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "103", 
+    "name": "ライトフォグ",
+    "points": 1000,
+    "categories": ["ステージ"]
+  },
+{
+    "id": "104", 
+    "name": "ライブステージ",
+    "points": 2000,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "105", 
+    "name": "花火",
+    "points": 10000,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "106", 
+    "name": "はろー",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "107", 
+    "name": "ようこそ",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "108",
+    "name": "おつかれさま",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "109", 
+    "name": "おはよう", 
+    "points": 5,
+    "categories": ["挨拶"] 
+  },
+ {
+    "id": "110", 
+    "name": "こんばんは",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "111", 
+    "name": "バイバイ", 
+    "points": 5,
+    "categories": ["挨拶"] 
+  },
+ {
+    "id": "112", 
+    "name": "おかえり",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "113", 
+    "name": "おやすみ",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "114", 
+    "name": "いってきます",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "115", 
+    "name": "いってらっしゃい",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "116", 
+    "name": "いらっしゃい",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "117", 
+    "name": "おじゃまします",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "118",
+    "name": "ただいま",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "119", 
+    "name": "やってる？", 
+    "points": 5,
+    "categories": ["挨拶"] 
+  },
+ {
+    "id": "120", 
+    "name": "らっしゃっせい！",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "121", 
+    "name": "初見さんﾔｯﾎｰ", 
+    "points": 5,
+    "categories": ["挨拶"] 
+  },
+ {
+    "id": "122", 
+    "name": "遅れた！",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "123", 
+    "name": "すぐ戻る！",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "124", 
+    "name": "トイレ",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "125", 
+    "name": "フロリダ",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "126", 
+    "name": "しごもど",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "127", 
+    "name": "ちょい落ち",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "128",
+    "name": "ｽｯ",
+    "points": 5,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "129", 
+    "name": "ﾔｯﾎｰ(ｻﾎﾞﾎﾞﾝ)", 
+    "points": 5,
+    "categories": ["挨拶"] 
+  },
+ {
+    "id": "130", 
+    "name": "すやぁ…",
+    "points": 5,
+    "categories": ["挨拶", "ネタ"]
+  },
+{
+    "id": "131", 
+    "name": "やりおる", 
+    "points": 5,
+    "categories": ["えらい", "挨拶", "ネタ"] 
+  },
+ {
+    "id": "133", 
+    "name": "またね",
+    "points": 100,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "134", 
+    "name": "参上",
+    "points": 200,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "135", 
+    "name": "こんにちは",
+    "points": 500,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "136", 
+    "name": "また来るね",
+    "points": 500,
+    "categories": ["挨拶"]
+  },
+ {
+    "id": "137", 
+    "name": "おやすみ",
+    "points": 800,
+    "categories": ["挨拶"]
+  },
+{
+    "id": "138",
+    "name": "キリおめ",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "139", 
+    "name": "ナイギフ", 
+    "points": 5,
+    "categories": ["えらい"] 
+  },
+ {
+    "id": "140", 
+    "name": "ナイス",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "141", 
+    "name": "かわいい", 
+    "points": 5,
+    "categories": ["えらい", "LOVE"] 
+  },
+ {
+    "id": "142", 
+    "name": "100点",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "143", 
+    "name": "えぐぐ",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "144", 
+    "name": "すごい",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "145", 
+    "name": "すばら",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "146", 
+    "name": "たのしみ",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "147", 
+    "name": "天才か⁉︎",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "148",
+    "name": "かしこ",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "149", 
+    "name": "はなまる", 
+    "points": 5,
+    "categories": ["えらい"] 
+  },
+ {
+    "id": "150", 
+    "name": "エモい",
+    "points": 5,
+    "categories": ["えらい", "定番"]
   }
 ]
