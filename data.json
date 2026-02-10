@@ -1888,5 +1888,53 @@
     "name": "thank you",
     "points": 100,
     "categories": ["定番"]
+  },
+  {
+    "id": "317", 
+    "name": "お掃除",
+    "points": 300,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "318", 
+    "name": "ミラーボール",
+    "points": 500,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "319", 
+    "name": "ﾎﾟｼﾞﾃｨﾌﾞ足りてる？",
+    "points": 300,
+    "categories": ["定番"]
+  },
+ {
+    "id": "320", 
+    "name": "パンケーキ(野菜)",
+    "points": 300,
+    "categories": ["定番"]
+  },
+ {
+    "id": "321", 
+    "name": "パンケーキ(爆弾)",
+    "points": 300,
+    "categories": ["定番"]
+  },
+ {
+    "id": "322", 
+    "name": "パンケーキ",
+    "points": 300,
+    "categories": ["定番"]
+  },
+{
+    "id": "323", 
+    "name": "予言タイム",
+    "points": 1000,
+    "categories": ["定番"]
+  },
+{
+    "id": "324", 
+    "name": "覚醒",
+    "points": 1000,
+    "categories": ["定番"]
   }
 ]
