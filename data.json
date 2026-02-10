@@ -892,5 +892,305 @@
     "name": "エモい",
     "points": 5,
     "categories": ["えらい", "定番"]
+  },
+  {
+    "id": "151", 
+    "name": "チルい", 
+    "points": 5,
+    "categories": ["えらい"] 
+  },
+ {
+    "id": "152", 
+    "name": "かっこいい",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "153", 
+    "name": "イケボ",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "154", 
+    "name": "クール",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "155", 
+    "name": "あざとい",
+    "points": 5,
+    "categories": ["えらい", "LOVE"]
+  },
+ {
+    "id": "156", 
+    "name": "かわぼ",
+    "points": 5,
+    "categories": ["えらい", "LOVE"]
+  },
+ {
+    "id": "157", 
+    "name": "癒し〜",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "158",
+    "name": "耳が幸せ",
+    "points": 5,
+    "categories": ["えらい"]
+  },
+{
+    "id": "159", 
+    "name": "よかろう", 
+    "points": 5,
+    "categories": ["えらい"] 
+  },
+ {
+    "id": "160", 
+    "name": "Congratulations!",
+    "points": 100,
+    "categories": ["えらい"]
+  },
+{
+    "id": "161", 
+    "name": "拍手", 
+    "points": 500,
+    "categories": ["えらい"] 
+  },
+ {
+    "id": "162", 
+    "name": "たいへんよくできました",
+    "points": 500,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "163", 
+    "name": "お見事！",
+    "points": 500,
+    "categories": ["えらい"]
+  },
+{
+    "id": "164", 
+    "name": "ｹｰｷ(誕生日)",
+    "points": 1000,
+    "categories": ["えらい"]
+  },
+ {
+    "id": "165", 
+    "name": "かわいい",
+    "points": 3000,
+    "categories": ["えらい", "LOVE"]
+  },
+ {
+    "id": "166", 
+    "name": "尊い",
+    "points": 5000,
+    "categories": ["えらい", "LOVE"]
+  },
+ {
+    "id": "167", 
+    "name": "なでなで",
+    "points": 7000,
+    "categories": ["えらい", "LOVE"]
+  },
+{
+    "id": "168",
+    "name": "ﾊｯﾋﾟｰﾊﾞｰｽﾃﾞｰ",
+    "points": 10000,
+    "categories": ["えらい"]
+  },
+{
+    "id": "169", 
+    "name": "うんうん", 
+    "points": 1,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "170", 
+    "name": "なるほど",
+    "points": 1,
+    "categories": ["定番"]
+  },
+{
+    "id": "171", 
+    "name": "わかる", 
+    "points": 1,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "172", 
+    "name": "わからん",
+    "points": 1,
+    "categories": ["定番"]
+  },
+ {
+    "id": "173", 
+    "name": "爆笑",
+    "points": 1,
+    "categories": ["定番"]
+  },
+{
+    "id": "174", 
+    "name": "号泣",
+    "points": 1,
+    "categories": ["定番"]
+  },
+ {
+    "id": "175", 
+    "name": "考え中",
+    "points": 1,
+    "categories": ["定番"]
+  },
+ {
+    "id": "176", 
+    "name": "好物",
+    "points": 1,
+    "categories": ["定番", "LOVE"]
+  },
+ {
+    "id": "177", 
+    "name": "ふ〜ん",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "178",
+    "name": "…",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "179", 
+    "name": "？", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "180", 
+    "name": "！？",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "181", 
+    "name": "ありがとう", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "182", 
+    "name": "やだ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "183", 
+    "name": "ダウト",
+    "points": 5,
+    "categories": ["定番", "ネタ"]
+  },
+{
+    "id": "184", 
+    "name": "ｗｗｗ",
+    "points": 5,
+    "categories": ["定番", "笑"]
+  },
+ {
+    "id": "185", 
+    "name": "草",
+    "points": 5,
+    "categories": ["定番", "笑"]
+  },
+ {
+    "id": "186", 
+    "name": "神",
+    "points": 5,
+    "categories": ["定番", "えらい"]
+  },
+ {
+    "id": "187", 
+    "name": "キャンディ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "188",
+    "name": "炎",
+    "points": 5,
+    "categories": ["定番", "ネタ"]
+  },
+{
+    "id": "189", 
+    "name": "握手", 
+    "points": 5,
+    "categories": ["定番", "挨拶"] 
+  },
+ {
+    "id": "190", 
+    "name": "ハイ！",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "191", 
+    "name": "助かる", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "192", 
+    "name": "クラッカー",
+    "points": 5,
+    "categories": ["定番", "ステージ"]
+  },
+ {
+    "id": "193", 
+    "name": "良さそう",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "194", 
+    "name": "クローバー",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "195", 
+    "name": "ドリンク",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "196", 
+    "name": "ぴえん",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "197", 
+  "name": "バラ",
+    "points": 5,
+    "categories": ["定番", "ステージ"]
+  },
+{
+    "id": "198",
+    "name": "いつもので",
+    "points": 5,
+    "categories": ["定番", "ステージ", "ネタ"]
+  },
+{
+    "id": "199", 
+    "name": "一体感", 
+    "points": 5,
+    "categories": ["定番", "ネタ"] 
+  },
+ {
+    "id": "200", 
+    "name": "ドッ",
+    "points": 5,
+    "categories": ["笑", "定番"]
   }
 ]
