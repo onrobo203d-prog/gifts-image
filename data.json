@@ -1192,5 +1192,551 @@
     "name": "ドッ",
     "points": 5,
     "categories": ["笑", "定番"]
+  },
+  {
+    "id": "201", 
+    "name": "ごはん", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "202", 
+    "name": "サラダバー",
+    "points": 5,
+    "categories": ["定番", "挨拶"]
+  },
+ {
+    "id": "203", 
+    "name": "草(植物)",
+    "points": 5,
+    "categories": ["定番", "笑"]
+  },
+{
+    "id": "204", 
+    "name": "えへへ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "205", 
+    "name": "うぐっ…",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "206", 
+    "name": "ガクブル",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "207", 
+    "name": "サァー",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "208",
+    "name": "ナムナム",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "209", 
+    "name": "ヒエッ", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "210", 
+    "name": "ちょっと",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "211", 
+    "name": "むっちゃ", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "212", 
+    "name": "もっと",
+    "points": 5,
+    "categories": ["定番", "ステージ"]
+  },
+ {
+    "id": "213", 
+    "name": "ｴﾅｼﾞｰﾄﾞﾘﾝｸ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "214", 
+    "name": "拍手",
+    "points": 5,
+    "categories": ["定番", "えらい", "ステージ"]
+  },
+ {
+    "id": "215", 
+    "name": "ヘドバン",
+    "points": 5,
+    "categories": ["定番", "ステージ"]
+  },
+ {
+    "id": "216", 
+    "name": "ふぅー!!",
+    "points": 5,
+    "categories": ["ステージ", "ネタ", "定番"]
+  },
+ {
+    "id": "217", 
+    "name": "おいしいやつ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "218",
+    "name": "おかわり",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "219", 
+    "name": "満腹", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "220", 
+    "name": "空腹",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "221", 
+    "name": "ごっつぁん", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "222", 
+    "name": "じゅるり",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "223", 
+    "name": "オサレ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "224", 
+    "name": "いえーい(ほしーか)",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "225", 
+    "name": "うむうむ(ぶくちゃ)",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "226", 
+    "name": "きゅるん(ゆらみぃ)",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "227", 
+    "name": "ごろごろ(ねこころ)",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "228",
+    "name": "ぺこぺこ(つむまる)",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "229", 
+    "name": "あわわわ", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "230", 
+    "name": "しおしお",
+    "points": 5,
+    "categories": ["定番", "ネタ"]
+  },
+{
+    "id": "231", 
+    "name": "ぽかぽか", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "232", 
+    "name": "やばーい",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "233", 
+    "name": "ウケる",
+    "points": 5,
+    "categories": ["定番", "笑"]
+  },
+{
+    "id": "234", 
+    "name": "ビクッ！？",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "235", 
+    "name": "ファイティン！",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "236", 
+    "name": "？？？",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "237", 
+    "name": "はぁい…",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "238",
+    "name": "ふんふん…",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "239", 
+    "name": "おねが〜い", 
+    "points": 5,
+    "categories": ["定番", "挨拶"] 
+  },
+ {
+    "id": "240", 
+    "name": "ぱぁぁ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "241", 
+    "name": "ぷんぷん", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "242", 
+    "name": "ふぉっふぉっ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "243", 
+    "name": "ﾒﾝﾀﾙﾌﾞﾚｲｸ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "244", 
+    "name": "いっくよー",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "245", 
+    "name": "おねぎします",
+    "points": 5,
+    "categories": ["定番", "挨拶", "ネタ"]
+  },
+ {
+    "id": "246", 
+    "name": "まかセロリ",
+    "points": 5,
+    "categories": ["定番", "ネタ"]
+  },
+ {
+    "id": "247", 
+  "name": "ぱぁ",
+    "points": 5,
+    "categories": ["定番", "ネタ"]
+  },
+{
+    "id": "248",
+    "name": "ぱぁぁぁ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "249", 
+    "name": "ひそひそ", 
+    "points": 5,
+    "categories": ["定番"] 
+  },
+ {
+    "id": "250", 
+    "name": , "ポカーン",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "251", 
+    "name": "閃き",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "252", 
+    "name": "のど飴",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "253", 
+    "name": "休んで！",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "254", 
+    "name": "寝て！",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "255", 
+    "name": "食べて",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "256", 
+    "name": "充電中",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "257", 
+    "name": "残量100%",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "258", 
+    "name": "残量1%",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "259", 
+    "name": "グー",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "260", 
+    "name": "チョキ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "261", 
+    "name": "パー",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "262", 
+    "name": "シャキーン",
+    "points": 10,
+    "categories": ["定番"]
+  },
+ {
+    "id": "263", 
+    "name": "キラキラ",
+    "points": 10,
+    "categories": ["定番"]
+  },
+ {
+    "id": "264", 
+    "name": "ひんやりタイム",
+    "points": 10,
+    "categories": ["ネタ", "定番"]
+  },
+ {
+    "id": "265", 
+    "name": "…どれ？",
+    "points": 10,
+    "categories": ["定番"]
+  },
+ {
+    "id": "266", 
+    "name": "はらだいこ",
+    "points": 10,
+    "categories": ["定番"]
+  },
+ {
+    "id": "267", 
+    "name": "草(大)",
+    "points": 100,
+    "categories": ["笑", "定番"]
+  },
+ {
+    "id": "268", 
+    "name": "お茶",
+    "points": 100,
+    "categories": ["定番"]
+  },
+ {
+    "id": "269", 
+    "name": "えらい",
+    "points": 100,
+    "categories": ["えらい", "定番"]
+  },
+ {
+    "id": "270", 
+    "name": "クラッカー",
+    "points": 200,
+    "categories": ["えらい", "定番", "ステージ"]
+  },
+{
+    "id": "271", 
+    "name": "バラ(大)",
+    "points": 200,
+    "categories": ["ステージ", "定番"]
+  },
+ {
+    "id": "272", 
+    "name": "御意",
+    "points": 200,
+    "categories": ["定番"]
+  },
+ {
+    "id": "273", 
+    "name": "しらすまん",
+    "points": 200,
+    "categories": ["ネタ", "定番"]
+  },
+ {
+    "id": "274", 
+    "name": "ダウト",
+    "points": 200,
+    "categories": ["ネタ", "定番"]
+  },
+ {
+    "id": "275", 
+    "name": "怒り",
+    "points": 300,
+    "categories": ["定番"]
+  },
+ {
+    "id": "276", 
+    "name": "がんばれ",
+    "points": 500,
+    "categories": ["定番"]
+  },
+ {
+    "id": "277", 
+    "name": "乾杯",
+    "points": 500,
+    "categories": ["定番"]
+  },
+ {
+    "id": "278", 
+    "name": "エモい",
+    "points": 500,
+    "categories": ["えらい", "定番"]
+  },
+ {
+    "id": "279", 
+    "name": "花束",
+    "points": 500,
+    "categories": ["ステージ", "定番"]
+  },
+ {
+    "id": "280", 
+    "name": "ありがとう",
+    "points": 500,
+    "categories": ["定番"]
+  },
+{
+    "id": "281", 
+    "name": "助かる",
+    "points": 500,
+    "categories": ["定番"]
+  },
+ {
+    "id": "282", 
+    "name": "ん…？",
+    "points": 500,
+    "categories": ["定番", "ネタ"]
+  },
+ {
+    "id": "283", 
+    "name": "うわぁぁん",
+    "points": 500,
+    "categories": ["定番"]
+  },
+ {
+    "id": "284", 
+    "name": "ｳｨﾝｸﾁｬﾚﾝｼﾞ",
+    "points": 500,
+    "categories": ["定番"]
+  },
+ {
+    "id": "285", 
+    "name": "ﾌﾚｰﾑ猫耳",
+    "points": 500,
+    "categories": ["定番"]
+  },
+ {
+    "id": "286", 
+    "name": "タピオカ",
+    "points": 700,
+    "categories": ["定番"]
+  },
+ {
+    "id": "287", 
+    "name": "くす玉",
+    "points": 1000,
+    "categories": ["えらい", "定番", "ステージ"]
+  },
+ {
+    "id": "288", 
+    "name": "缶詰(風船)",
+    "points": 3000,
+    "categories": ["定番"]
+  },
+ {
+    "id": "289", 
+    "name": "ｲﾘｱﾑ特製ﾊﾟﾌｪ",
+    "points": 3000,
+    "categories": ["定番"]
+  },
+ {
+    "id": "290", 
+    "name": "缶詰(花)",
+    "points": 5000,
+    "categories": ["定番"]
+  },
+ {
+    "id": "291", 
+    "name": "缶詰ﾀﾜｰ",
+    "points": 10000,
+    "categories": ["定番"]
   }
 ]
