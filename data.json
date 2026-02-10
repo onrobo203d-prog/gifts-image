@@ -1738,5 +1738,155 @@
     "name": "缶詰ﾀﾜｰ",
     "points": 10000,
     "categories": ["定番"]
+  },
+  {
+    "id": "292", 
+    "name": "プチ岐阜",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "293", 
+    "name": "逆にね",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "294", 
+    "name": "ほこり",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "295", 
+    "name": "もやし",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "296", 
+    "name": "ンジャメナ",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "297", 
+    "name": "からの〜？",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "298", 
+    "name": "へぇ",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "299", 
+    "name": "黒歴史",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "300", 
+    "name": "フラグ",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "301", 
+    "name": "画伯降臨",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+ {
+    "id": "302", 
+    "name": "歌神降臨",
+    "points": 10,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "303", 
+    "name": "1曲ちょうだい！",
+    "points": 100,
+    "categories": ["ステージ"]
+  },
+ {
+    "id": "304", 
+    "name": "ドラムロール",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "305", 
+    "name": "キタコレ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "306", 
+    "name": "thank youさぼぼん",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "307", 
+    "name": "thank youしらす",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "308", 
+    "name": "thank youつむまる",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "309", 
+    "name": "thank youねこころ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "310", 
+    "name": "thank youぶくちゃ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "311", 
+    "name": "thank youホシーカ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "312", 
+    "name": "thank youユラミィ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+ {
+    "id": "313", 
+    "name": "びたんびたん",
+    "points": 10,
+    "categories": ["定番"]
+  },
+ {
+    "id": "314", 
+    "name": "わいわい",
+    "points": 10,
+    "categories": ["定番"]
+  },
+{
+    "id": "315", 
+    "name": "ノリノリ",
+    "points": 10,
+    "categories": ["定番"]
+  },
+{
+    "id": "316", 
+    "name": "thank you",
+    "points": 100,
+    "categories": ["定番"]
   }
 ]
