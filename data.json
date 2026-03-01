@@ -1930,5 +1930,41 @@
     "name": "覚醒",
     "points": 1000,
     "categories": ["定番"]
+  },
+  {
+    "id": "325", 
+    "name": "タイムセール",
+    "points": 398,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "326", 
+    "name": "ツンデレダイス",
+    "points": 100,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "327", 
+    "name": "またまたぁ",
+    "points": 5,
+    "categories": ["笑"]
+  },
+{
+    "id": "328", 
+    "name": "んなアホな",
+    "points": 5,
+    "categories": ["笑"]
+  },
+{
+    "id": "329", 
+    "name": "ホンマや",
+    "points": 10,
+    "categories": ["笑"]
+  },
+{
+    "id": "330", 
+    "name": "ちょっと待ったあぁ‼︎",
+    "points": 300,
+    "categories": ["定番"]
   }
 ]
