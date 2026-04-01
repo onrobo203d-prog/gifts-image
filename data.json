@@ -1935,13 +1935,13 @@
     "id": "325", 
     "name": "タイムセール",
     "points": 398,
-    "categories": ["ネタ"]
+    "categories": ["ネタ","おもちゃ"]
   },
 {
     "id": "326", 
     "name": "ツンデレダイス",
     "points": 100,
-    "categories": ["ネタ"]
+    "categories": ["ネタ","おもちゃ"]
   },
 {
     "id": "327", 
@@ -1966,5 +1966,41 @@
     "name": "ちょっと待ったあぁ‼︎",
     "points": 300,
     "categories": ["定番"]
+  },
+   {
+    "id": "331", 
+    "name": "平成",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "332", 
+    "name": "昭和",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "333", 
+    "name": "江戸",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "334", 
+    "name": "味見ダイス",
+    "points": 100,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "335", 
+    "name": "アイリスアウト",
+    "points":300,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "336", 
+    "name": "令和",
+    "points": 300,
+    "categories": ["ネタ"]
   }
 ]
