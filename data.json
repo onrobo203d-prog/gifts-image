@@ -2002,5 +2002,11 @@
     "name": "令和",
     "points": 300,
     "categories": ["ネタ"]
+  },
+  {
+    "id": "337", 
+    "name": "わいわい投票",
+    "points": 500,
+    "categories": ["おもちゃ"]
   }
 ]
