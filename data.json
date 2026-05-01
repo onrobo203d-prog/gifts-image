@@ -2008,5 +2008,41 @@
     "name": "わいわい投票",
     "points": 500,
     "categories": ["おもちゃ"]
-  }
+  },
+  {
+    "id": "338", 
+    "name": "ここすき",
+    "points": 500,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "339", 
+    "name": "ニヤリ",
+    "points": 5,
+    "categories": ["定番"]
+  },
+{
+    "id": "340", 
+    "name": "話聞こか？",
+    "points": 5,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "341", 
+    "name": "結界",
+    "points": 500,
+    "categories": ["定番"]
+  },
+{
+    "id": "342", 
+    "name": "予算ダイス",
+    "points": 300,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "343", 
+    "name": "Happy Birthday（ねこころ）",
+    "points": 100,
+    "categories": ["えらい"]
+}
 ]
