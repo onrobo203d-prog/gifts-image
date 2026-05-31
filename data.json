@@ -2044,5 +2044,11 @@
     "name": "Happy Birthday（ねこころ）",
     "points": 100,
     "categories": ["えらい"]
+},
+  {
+    "id": "344", 
+    "name": "Happy Birthday（ホシーカ）",
+    "points": 100,
+    "categories": ["えらい"]
 }
 ]
