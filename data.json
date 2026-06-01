@@ -2050,5 +2050,35 @@
     "name": "Happy Birthday（ホシーカ）",
     "points": 100,
     "categories": ["えらい"]
+},
+  {
+    "id": "345", 
+    "name": "方角ダイス",
+    "points": 100,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "346", 
+    "name": "えっへん天狗",
+    "points": 500,
+    "categories": ["おもちゃ"]
+},
+  {
+    "id": "347", 
+    "name": "おかん",
+    "points": 10,
+    "categories": ["ネタ"]
+},
+{
+    "id": "348", 
+    "name": "ふりふり",
+    "points": 10,
+    "categories": ["定番"]
+  },
+{
+    "id": "349", 
+    "name": "うれピーマン",
+    "points": 100,
+    "categories": ["定番"]
 }
 ]
