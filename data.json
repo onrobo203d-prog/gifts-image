@@ -2080,5 +2080,41 @@
     "name": "うれピーマン",
     "points": 100,
     "categories": ["定番"]
+},
+  {
+    "id": "350", 
+    "name": "むふふ",
+    "points": 10,
+    "categories": ["笑"]
+  },
+{
+    "id": "351", 
+    "name": "チラッ",
+    "points": 10,
+    "categories": ["定番"]
+},
+  {
+    "id": "352", 
+    "name": "罠",
+    "points": 10,
+    "categories": ["ネタ"]
+},
+{
+    "id": "353", 
+    "name": "誰かなダイス",
+    "points": 100,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "354", 
+    "name": "THE 宇宙",
+    "points": 300,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "355", 
+    "name": "Happy Birthday（つむるん）",
+    "points": 100,
+    "categories": ["えらい"]
 }
 ]
