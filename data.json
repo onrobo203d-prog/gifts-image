@@ -2152,5 +2152,35 @@
     "name": "想定外",
     "points": 10,
     "categories": ["ネタ"]
-}
+},
+  {
+    "id": "362", 
+    "name": "肉ダイス",
+    "points": 100,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "363", 
+    "name": "サァー……",
+    "points": 10,
+    "categories": ["定番"]
+  },
+{
+    "id": "364", 
+    "name": "タイムリープ",
+    "points": 10,
+    "categories": ["定番"]
+},
+{
+    "id": "365", 
+    "name": "・・・",
+    "points": 100,
+    "categories": ["定番"]
+  },
+{
+    "id": "366", 
+    "name": "あの日の夕焼け",
+    "points": 500,
+    "categories": ["定番"]
+  }
 ]
