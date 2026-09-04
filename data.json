@@ -2116,5 +2116,41 @@
     "name": "Happy Birthday（つむるん）",
     "points": 100,
     "categories": ["えらい"]
+},
+  {
+    "id": "356", 
+    "name": "直感",
+    "points": 100,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "357", 
+    "name": "ノリノリ一番乗り",
+    "points": 300,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "358", 
+    "name": "Happy Birthday（さぼぼん）",
+    "points": 100,
+    "categories": ["えらい"]
+},
+{
+    "id": "359", 
+    "name": "しゃしゃりダイス",
+    "points": 100,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "360", 
+    "name": "想定通り",
+    "points": 10,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "311", 
+    "name": "想定外",
+    "points": 10,
+    "categories": ["ネタ"]
 }
 ]
