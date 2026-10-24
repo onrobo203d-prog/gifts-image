@@ -2182,5 +2182,18 @@
     "name": "あの日の夕焼け",
     "points": 500,
     "categories": ["定番"]
+},
+    {
+    "id": "367", 
+    "name": "わいわい星座",
+    "points": 500,
+    "categories": ["おもちゃ"]
+  },
+{
+    "id": "368", 
+    "name": "Happy Birthday(ユラミイ)",
+    "points": 100,
+    "categories": ["えらい"]
   }
+]
 ]
