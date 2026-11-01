@@ -2194,5 +2194,35 @@
     "name": "Happy Birthday(ユラミイ)",
     "points": 100,
     "categories": ["えらい"]
+  },
+  {
+    "id": "369", 
+    "name": "ハリウッド爆発オチ",
+    "points": 500,
+    "categories": ["おもちゃ"]
+},
+{
+    "id": "370", 
+    "name": "タンブルウィード",
+    "points": 500,
+    "categories": ["ネタ"]
+  },
+{
+    "id": "371", 
+    "name": "転生ダイス",
+    "points": 100,
+    "categories": ["おもちゃ"]
+},
+    {
+    "id": "372", 
+    "name": "有罪",
+    "points": 10,
+    "categories": ["定番"]
+  },
+{
+    "id": "373", 
+    "name": "無罪",
+    "points": 10,
+    "categories": ["定番"]
   }
 ]
